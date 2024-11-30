@@ -6,7 +6,7 @@ price = 10.2
 name = "Valentine"
 #Тип змінної bool(boolean), який містить True або False(1 або 0)
 light = True
-
+#ДЕ НОРМАЛЬНІ ЗМІННІ? 2 бали
 student = 11
 price_shop = 11.00
 table = "Hello World"
